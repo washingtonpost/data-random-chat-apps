@@ -2,7 +2,7 @@
 
 Dataset of iOS app reviews for random chat apps. Manually tagged reviews with "unwanted sexual behavior".
 
-Story: `<insert story link here>`
+Story: https://www.washingtonpost.com/technology/2019/11/22/apple-says-its-app-store-is-safe-trusted-place-we-found-reports-unwanted-sexual-behavior-six-apps-some-targeting-minors/
 
 Data: https://github.com/AlJohri/data-random-chat-apps/raw/master/reviews.csv
 
