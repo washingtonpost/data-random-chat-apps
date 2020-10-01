@@ -4,7 +4,7 @@ Dataset of iOS app reviews for random chat apps. Manually tagged reviews with "u
 
 Story: https://www.washingtonpost.com/technology/2019/11/22/apple-says-its-app-store-is-safe-trusted-place-we-found-reports-unwanted-sexual-behavior-six-apps-some-targeting-minors/
 
-Data: https://github.com/AlJohri/data-random-chat-apps/raw/master/reviews.csv
+Data: https://github.com/washingtonpost/data-random-chat-apps/raw/master/reviews.csv
 
 Apps: [Monkey](https://apps.apple.com/us/app/monkey/id1165924249), [Yubo](https://apps.apple.com/us/app/yubo-make-new-friends/id1038653883), [ChatLive](https://apps.apple.com/us/app/chatlive-random-video-chat/id1442099894), [Chat for Strangers](https://apps.apple.com/us/app/chat-for-strangers-video-chat/id447269854), [Skout](https://apps.apple.com/us/app/skout-meet-new-people/id302324249) and [Holla](https://apps.apple.com/us/app/holla-live-random-video-chat/id1125318983).
 
